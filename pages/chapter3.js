@@ -56,7 +56,7 @@ export default function Home() {
         <div class="overflow-auto pt-5">
           <div class="col-md-6">
               <div class="md-form">
-                  <textarea type="text" id="textarea" class="md-textarea"></textarea>
+                  <textarea type="text" id="textarea" name = "ans" class="md-textarea"></textarea>
                   <label for="textarea"></label>
               </div>
           </div>
